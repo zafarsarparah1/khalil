@@ -103,7 +103,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;95mENTER PASSWORD\x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:RANA
+            print "Logged in successfully as " + username #Dev:ZAFAR
 	    time.sleep(2)
             loop = 'false'
         else:
