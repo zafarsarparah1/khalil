@@ -94,8 +94,8 @@ jalan("\033[1;97m WIFI USER USE ANY PROXY TO CLONE")
 jalan("\033[1;93m Welcome to Zafar Creations")
 jalan("\033[1;96m•◈•──────────•◈•\033[1;96mzafarsarparah1\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "zafar"
+CorrectPassword = "zafar"
 
 loop = 'true'
 while (loop == 'true'):
